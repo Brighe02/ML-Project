@@ -48,5 +48,5 @@ University of Verona
 
 ## Course Information
 
-Machine Learning - Academic Year 2024/2025  
+Machine Learning - Academic Year 2025/2026  
 Professor: Cigdem Beyan
